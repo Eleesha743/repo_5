@@ -1,0 +1,13 @@
+body{
+  background: url('/static/images/heroes.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  margin-top: 50px;
+  color: red;
+
+}
+.jumbotron{
+  background: black;
+}
